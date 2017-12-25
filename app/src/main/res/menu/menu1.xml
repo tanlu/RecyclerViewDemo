@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="listView" app:showAsAction="never" android:id="@+id/one"></item>
+    <item android:title="gridview" app:showAsAction="never" android:id="@+id/two"></item>
+    <item android:title="pullview" app:showAsAction="never" android:id="@+id/three"></item>
+
+
+</menu>
